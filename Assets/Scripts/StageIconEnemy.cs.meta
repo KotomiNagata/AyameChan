@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be55c9a6663894b518fcf84475c23d66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - iconUp: {fileID: 1288316143280318, guid: bd086d733e33446ccbf0f4b72a1cac16, type: 2}
+  - iconDown: {fileID: 1545534684758988, guid: e63c7f5fd05cb4a179a073d31c17789b, type: 2}
+  - iconRight: {fileID: 1973883175320940, guid: 4406593a28079477cac4f021f0653524,
+      type: 2}
+  - iconLeft: {fileID: 1928869736787344, guid: b7c5a9c757e164acba96eab4f76c4cc1, type: 2}
+  - broccoli: {fileID: 1664021893134732, guid: e7d30f4f7bbec45f686cb231353115b5, type: 2}
+  - ribon: {fileID: 1996128516234052, guid: 0b42ae3828bc6418caef6d73f45af1dc, type: 2}
+  - kutushita: {fileID: 1159463258939982, guid: 0cb6d028062cc433989eddb86664b01d,
+      type: 2}
+  - sojiki: {fileID: 1070508116444262, guid: 980b7cbbc6dcd45a291383f1e4cfb379, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
